@@ -8,8 +8,9 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [maytinee37900@gmail.coml@example.com](mailto:your-email@example.com)
+* 📧 Email: [maytinee37900@gmail.coml](mailto:your-email@example.com)
 * 💼 LinkedIn: https://linkedin.com/in/your-profile
+* Phone: 0957566485
 * 🌐 Portfolio: (ถ้ามี)
 
 ---
@@ -25,27 +26,19 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-* JavaScript / TypeScript
-* Python
-* Java / C++
-
-**Frontend**
-
-* React
-* HTML, CSS, Tailwind
-
-**Backend**
-
-* Node.js / Express
-* REST APIs
+**Programming languages**
+- Programming languages
+- Java
+- CSS
+- HTML
+- SQL 
+- JavaScript 
 
 **Tools**
-
-* Git & GitHub
-* VS Code
-* Docker (basic)
+- Vs code
+- fixma
+- git/github
+- Power BI
 
 ---
 
