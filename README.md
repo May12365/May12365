@@ -6,6 +6,14 @@
 
 ---
 
+## 📫 Contact Me
+
+* 📧 Email: [maytinee37900@gmail.coml@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 🌐 Portfolio: (ถ้ามี)
+
+---
+
 ## 🧑‍💻 About Me
 
 * 🌱 Currently learning: Full-stack development
@@ -62,14 +70,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=May12365\&show_icons=true\&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=May12365\&layout=compact\&theme=radical)
-
----
-
-## 📫 Contact Me
-
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 🌐 Portfolio: (ถ้ามี)
 
 ---
 
