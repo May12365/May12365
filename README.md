@@ -9,7 +9,7 @@
 ## 📫 Contact Me
 
 * 📧 Email: [maytinee37900@gmail.coml](mailto:your-email@example.com)
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💼 LinkedIn: 
 * Phone: 0957566485
 * 🌐 Portfolio: (ถ้ามี)
 
