@@ -21,6 +21,7 @@
 
 ## 🧑‍💻 About Me
 Hello, my name is Matinee Pangkaew (Prawa). I am a third-year Computer Science student in the Faculty of Science at Huachiew Chalermprakiet University. I have experience in programming and developing various software applications and projects. I am highly motivated to continuously learn new skills and expand my knowledge in technology and software development. I am eager to apply my academic knowledge and practical experience to real-world project and contribute effectively in a professional environment.
+
 ---
 
 ## 🛠️ Tech Stack
