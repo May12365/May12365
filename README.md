@@ -1,8 +1,9 @@
-# 👋 Hi, I'm May
-
-🎓 Computer Science Student / Developer
-💻 Passionate about Web Development & Software Engineering
-📍 Thailand
+## 🧑‍💻 About Me
+Hello, my name is **Matinee Pangkaew (Prawa)**. I am **a third-year Computer Science student** in the Faculty of Science at Huachiew Chalermprakiet University.
+* I am  **interested in Full Stack Web Development and Front-End Developer**. 
+* I have experience in programming and developing various software applications and projects. 
+* I am highly motivated to continuously learn new skills and expand my knowledge in technology and software development. 
+* I am eager to apply my academic knowledge and practical experience to real-world project and contribute effectively in a professional environment.
 
 ---
 
@@ -17,15 +18,6 @@
 ## 💼 Internship Interests
 * Full Stack Developer
 * Front-End Developer
----
-
-## 🧑‍💻 About Me
-Hello, my name is **Matinee Pangkaew (Prawa)**. I am **a third-year Computer Science student** in the Faculty of Science at Huachiew Chalermprakiet University.
-* I am  **interested in Full Stack Web Development and Front-End Developer**. 
-* I have experience in programming and developing various software applications and projects. 
-* I am highly motivated to continuously learn new skills and expand my knowledge in technology and software development. 
-* I am eager to apply my academic knowledge and practical experience to real-world project and contribute effectively in a professional environment.
-
 ---
 
 ## 🛠️ Tech Stack
