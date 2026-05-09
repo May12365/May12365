@@ -44,18 +44,25 @@
 
 ## 📌 Featured Projects
 
-🔹 **Project Name 1**
+🔹 **Typing Test Game**
 
-* Description: Short explanation of what it does
-* Tech: React, Node.js
-* 🔗 https://github.com/May12365/your-project
+* Description: An interactive typing speed test game that measures typing speed, accuracy, and real-time performance using HTML, CSS, and JavaScript.
+* 🔗 [https://github.com/May12365/your-project](https://github.com/May12365/TypingTestGame)
 
-🔹 **Project Name 2**
+🔹 **Life Cal**
 
-* Description: Short explanation
-* Tech: Python / API
-* 🔗 https://github.com/May12365/your-project
+* Description: A calorie calculator application designed to help users track and plan their daily food consumption and nutritional intake.
+* 🔗 [https://github.com/May12365/your-project](https://github.com/May12365/Life-Cal)
 
+🔹 **School Cooperative POS System**
+
+* Description: An inventory and sales management system developed using PHP, JavaScript, HTML, CSS, and MySQL database management via phpMyAdmin.
+* 🔗 [https://github.com/May12365/your-project](https://github.com/May12365/POS)
+  
+🔹 **Harmony Hotel (Data Analytics Project)**
+
+* Description: A hotel business data analytics project focused on the Thai hospitality industry, covering data preparation, analysis, and dashboard development using Microsoft Excel and Power BI.
+* 🔗 [https://github.com/May12365/your-project](https://github.com/May12365/Harmony-Hotel-)
 ---
 
 ## 📊 GitHub Stats
