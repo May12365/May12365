@@ -61,13 +61,5 @@ Hello, my name is **Matinee Pangkaew (Prawa)**. I am **a third-year Computer Sci
 * 🔗 [https://github.com/May12365/your-project](https://github.com/May12365/Harmony-Hotel-)
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=May12365\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=May12365\&layout=compact\&theme=radical)
-
----
-
 ⭐️ From [May12365](https://github.com/May12365)
 
