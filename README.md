@@ -14,14 +14,13 @@
 * 🌐 Portfolio: (ถ้ามี)
 
 ---
+## 💼 Internship Interests
+* Full Stack Developer
+* Front-End Developer
+---
 
 ## 🧑‍💻 About Me
-
-* 🌱 Currently learning: Full-stack development
-* 🔭 Interested in: Web apps, APIs, and modern frameworks
-* 🎯 Goal: Become a professional Software Developer
-* ⚡ Fun fact: I enjoy solving coding problems and building projects
-
+Hello, my name is Matinee Pangkaew (Prawa). I am a third-year Computer Science student in the Faculty of Science at Huachiew Chalermprakiet University. I have experience in programming and developing various software applications and projects. I am highly motivated to continuously learn new skills and expand my knowledge in technology and software development. I am eager to apply my academic knowledge and practical experience to real-world project and contribute effectively in a professional environment.
 ---
 
 ## 🛠️ Tech Stack
