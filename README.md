@@ -9,10 +9,9 @@ Hello, my name is **Matinee Pangkaew (Prawa)**. I am **a third-year Computer Sci
 
 ## 📫 Contact Me
 
-* 📧 Email: [maytinee37900@gmail.coml](mailto:your-email@example.com)
-* 💼 LinkedIn: 
+* Email: [maytinee37900@gmail.coml](mailto:your-email@example.com)
 * Phone: 0957566485
-* 🌐 Portfolio: (ถ้ามี)
+* Portfolio:(https://may12365.github.io/My-Portfolio/)
 
 ---
 ## 💼 Internship Interests
